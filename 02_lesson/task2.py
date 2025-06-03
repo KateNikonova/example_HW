@@ -1,1 +1,1 @@
-print(task2)
+print("task2")
